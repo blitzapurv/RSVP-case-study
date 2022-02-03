@@ -1,7 +1,7 @@
-#RSVP Movies Case Study
+# RSVP Movies Case Study
 
 
-##Problem Statement:
+**Problem Statement:**
 
 RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.
 
@@ -11,7 +11,7 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
 
 
 
-##Steps to follow(Database creation and analysis):
+**Steps to follow(Database creation and analysis):**
 
 •	Download the IMDb dataset from above.
 •	The first tab contains the ERD and the table details. Study that carefully and understand the relationships between the table.
@@ -19,7 +19,7 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
 •	Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
 
 
-##Files:
+**Files:**
 
 1. Script with DDL commands to import dataset.
 2. Excel workbook with ERD and data of all the tables.
@@ -27,8 +27,7 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
 4. Executive summary.
 
 
-
-##ERD:
+**ERD:**
 
  ![ERD](https://user-images.githubusercontent.com/93088807/152393645-017f86cc-c9dc-4ab4-9354-46cac571bf99.JPG)
 
